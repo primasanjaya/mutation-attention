@@ -17,7 +17,12 @@ Read MuAt paper here :
 
 
 ### Acknowledgment
-[Machine Learning in Biomedicine](https://www2.helsinki.fi/en/researchgroups/machine-learning-in-biomedicine)
-[Institute for Molecular Medicine Finland (FIMM)](https://www2.helsinki.fi/en/researchgroups/machine-learning-in-biomedicine)
-[Juselius Foundation](https://www.sigridjuselius.fi/en/)
+[Machine Learning in Biomedicine Research Lab](https://www2.helsinki.fi/en/researchgroups/machine-learning-in-biomedicine)
+
+[Institute for Molecular Medicine Finland (FIMM)](https://www.fimm.fi)
+
+[iCAN Digital Precision Cancer Medicine Flagship, Finland](https://www.ican.fi)
+
+[Juselius Foundation](https://www.sigridjuselius.fi)
+
 [CSC](https://csc.fi/)
