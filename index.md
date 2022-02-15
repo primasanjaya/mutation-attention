@@ -1,6 +1,6 @@
 ## Mutation-Attention Project Website
 
-Mutation-Attention (MuAt) is a deep learning model for tumour classification based on somatic mutations.
+Mutation-Attention (MuAt) is a somatic mutational deep learning model for tumour classification.
 
 
 ### Publication
