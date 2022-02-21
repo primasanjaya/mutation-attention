@@ -13,7 +13,7 @@ Read MuAt paper here :
 
 ### Codes
 
-[Project repo here](https://github.com/primasanjaya?tab=repositories)
+[Project repo here](https://github.com/primasanjaya/muat-github)
 
 
 ### Acknowledgment
