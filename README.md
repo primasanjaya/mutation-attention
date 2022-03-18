@@ -2,7 +2,7 @@
 Mutation-Attention (MuAt) is a deep learning model for tumour classification and subtyping.
 
 ### Publications
-Read MuAt paper here : 
+Read MuAt paper here : https://www.biorxiv.org/content/10.1101/2022.03.15.483816v1
 
 ### Interactive Supplementary Information
 [MuAt-PCAWG UMAP](https://primasanjaya.github.io/muat-umap/)
