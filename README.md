@@ -10,7 +10,7 @@ Read MuAt paper here : [https://genomemedicine.biomedcentral.com/articles/10.118
 [MuAt-TCGA UMAP](https://primasanjaya.github.io/muat-umap-tcga/)
 
 ### Software
-[Source code repository](https://github.com/primasanjaya/muat-github)
+[Source code repository](https://github.com/primasanjaya/muat)
 
 ### Acknowledgments
 [Machine Learning in Biomedicine Research group](https://www2.helsinki.fi/en/researchgroups/machine-learning-in-biomedicine)
