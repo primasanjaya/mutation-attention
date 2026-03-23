@@ -8,6 +8,7 @@ Read MuAt2 paper here : [https://www.medrxiv.org/content/10.64898/2026.03.02.263
 
 ### Interactive Supplementary Information
 [MuAt-PCAWG UMAP](https://primasanjaya.github.io/muat-umap/)
+
 [MuAt-TCGA UMAP](https://primasanjaya.github.io/muat-umap-tcga/)
 
 ### Software
