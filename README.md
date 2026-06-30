@@ -6,6 +6,8 @@ Read MuAt paper here : [https://genomemedicine.biomedcentral.com/articles/10.118
 
 Read MuAt2 paper here : [https://www.medrxiv.org/content/10.64898/2026.03.02.26347318v1](https://www.medrxiv.org/content/10.64898/2026.03.02.26347318v1)
 
+Read muat software (bioconda, docker portability) here : [https://www.biorxiv.org/content/10.64898/2026.04.01.715762v1](https://www.biorxiv.org/content/10.64898/2026.04.01.715762v1)
+
 ### Interactive Supplementary Information
 [MuAt-PCAWG UMAP](https://primasanjaya.github.io/muat-umap/)
 
